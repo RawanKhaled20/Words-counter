@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695644459 source:c:\users\p.c\desktop\words-counter\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<cctype>
+
